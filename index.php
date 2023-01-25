@@ -15,7 +15,7 @@
 					<span class="text-uppercase text-sm letter-spacing ">Vaš partner kroz život</span>
 					<h1 class="mb-3 mt-3">MI GRADIMO VAŠE POVJERENJE</h1>
 					
-					<p class="mb-4 pr-5">A repudiandae ipsam labore ipsa voluptatum quidem quae laudantium quisquam aperiam maiores sunt fugit, deserunt rem suscipit placeat.</p>
+					<p class="mb-4 pr-5">Od momenta kada prvi put pređete naš prag budite sigurni da se ste na putu potpunog oporavka i trajnog rješavanja svih zubnih problema.</p>
 					<div class="btn-container ">
 						<a href="contact.php" class="btn btn-main-2 btn-icon btn-round-full">Rezervišite termin <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
