@@ -1664,7 +1664,7 @@ nav.navbar > .container{
 
 @media (max-width: 992px) {
   .banner {
-    background: url(../images/bg/slider-bg-1.jpg) no-repeat !important;
+    background: url(../images/bg/slider-bg-3.jpg) no-repeat !important;
     background-size: cover!important;
   }
 }
